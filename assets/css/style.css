@@ -32,6 +32,8 @@ a {
 
 header {
     border-bottom: 1px solid #d8dee8;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 header h1 {
@@ -98,5 +100,5 @@ footer ul {
 }
 
 footer a:hover {
-    color: #
+    color: #2563eb;
 }
