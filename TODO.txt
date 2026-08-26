@@ -1,0 +1,13 @@
+TODO
+
+    Important
+    - Finish Home
+    - Finish resumé
+    - Finish projects
+    - finish tutorial
+    - finish contact
+    - finish about 
+
+    Extra
+    - Light / Dark theme
+    - Language selector
